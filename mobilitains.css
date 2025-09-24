@@ -1,0 +1,7 @@
+/* Please follow as much as possible these guidelines :
+    https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Code_guidelines/CSS
+*/
+
+h1 { color: var(--mobilitains-bleu-fonce); }
+h2 { color: var(--mobilitains-bleu-marine); }
+h3 { color: var(--mobilitains-bleu); }
